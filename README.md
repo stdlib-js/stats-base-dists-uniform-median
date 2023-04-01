@@ -32,10 +32,14 @@ The [median][median] for a [uniform][uniform-distribution] random variable is
 
 <!-- <equation class="equation" label="eq:uniform_median" align="center" raw="\operatorname{Median}\left[ X \right] = \frac{1}{2} \left( a + b \right)" alt="Median for a uniform distribution."> -->
 
-<div class="equation" align="center" data-raw-text="\operatorname{Median}\left[ X \right] = \frac{1}{2} \left( a + b \right)" data-equation="eq:uniform_median">
+```math
+\operatorname{Median}\left[ X \right] = \frac{1}{2} \left( a + b \right)
+```
+
+<!-- <div class="equation" align="center" data-raw-text="\operatorname{Median}\left[ X \right] = \frac{1}{2} \left( a + b \right)" data-equation="eq:uniform_median">
     <img src="https://cdn.jsdelivr.net/gh/stdlib-js/stdlib@591cf9d5c3a0cd3c1ceec961e5c49d73a68374cb/lib/node_modules/@stdlib/stats/base/dists/uniform/median/docs/img/equation_uniform_median.svg" alt="Median for a uniform distribution.">
     <br>
-</div>
+</div> -->
 
 <!-- </equation> -->
 
@@ -218,7 +222,7 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 -->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
-[chat-url]: https://gitter.im/stdlib-js/stdlib/
+[chat-url]: https://app.gitter.im/#/room/#stdlib-js_stdlib:gitter.im
 
 [stdlib]: https://github.com/stdlib-js/stdlib
 
